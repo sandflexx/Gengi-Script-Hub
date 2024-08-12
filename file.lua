@@ -8,3 +8,9 @@ local Tab = Window:MakeTab({
 	PremiumOnly = false
 })
 
+local Section = Tab:AddSection({
+	Name = "Script 1: Infinite Yield"
+})
+
+
+
